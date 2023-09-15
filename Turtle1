@@ -1,1 +1,8 @@
 import turtle
+
+wn = turtle.Screen()
+wn.bgcolor("light green")
+wn.title("Turtle")
+painter = turtle.Turtle()
+painter.pencolor("blue")
+painter.forward(100)
