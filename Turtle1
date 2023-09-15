@@ -1,4 +1,4 @@
-import turtle as trtl
+import turtle
 
 wn = turtle.Screen()
 wn.bgcolor("light green")
